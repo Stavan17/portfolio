@@ -117,7 +117,7 @@ isNewTab: true
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: https://www.linkedin.com/in/stavan-mehta-140056253/
+link: https://www.linkedin.com/in/stavan-mehta-140056253
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
